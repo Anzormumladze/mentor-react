@@ -1,6 +1,3 @@
-Here's a sample README file for your React project:
-
----
 
 # Task Management App
 
